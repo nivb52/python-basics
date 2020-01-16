@@ -4,7 +4,7 @@ class MyPoint:
         self.x = x
         self.y = y
     # ==============
-    # Class Method:
+    # Class Method: 
     @classmethod
     def zero(cls):
         return cls(0, 0)   # cls => short for class
